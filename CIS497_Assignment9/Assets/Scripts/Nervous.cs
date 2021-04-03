@@ -1,3 +1,10 @@
+/*
+ * Chris Smith
+ * Nervous
+ * Assignment 9
+ * A state in which the suspect behaves with slight anxiety.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

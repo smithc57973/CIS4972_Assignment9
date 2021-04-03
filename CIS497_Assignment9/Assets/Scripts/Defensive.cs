@@ -1,3 +1,10 @@
+/*
+ * Chris Smith
+ * Defensive
+ * Assignment 9
+ * A state in which the suspect behaves with great anxiety.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

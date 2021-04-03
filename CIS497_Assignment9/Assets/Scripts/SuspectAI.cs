@@ -1,3 +1,10 @@
+/*
+ * Chris Smith
+ * SuspectAI
+ * Assignment 9
+ * A script that controls the suspect's AI state based on player input.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -30,7 +37,7 @@ public class SuspectAI : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        tutorial.text = "Press A to decrease stress.\nPress D to increase stress.\nPress 1 to ask the suspect their name.\nPress 2 to ask the suspect what they saw.\nPress 3 to stop talking to the suspect.\nCurrent Stress: " + stress + "\nCurrent State: " + current.ToString();
+        tutorial.text = "Interrogated the suspect.\nPress A to decrease stress. Press D to increase stress.\nPress 1 to ask the suspect their name.\nPress 2 to ask the suspect what they saw.\nPress 3 to stop talking to the suspect.\nCurrent Stress: " + stress + " Current State: " + current.ToString();
 
         //Changing state based on stress level
         if (stress <= 2)

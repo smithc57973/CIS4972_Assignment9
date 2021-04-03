@@ -1,3 +1,10 @@
+/*
+ * Chris Smith
+ * Angered
+ * Assignment 9
+ * A state in which the suspect behaves aggressively.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

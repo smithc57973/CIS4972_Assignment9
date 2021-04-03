@@ -1,3 +1,10 @@
+/*
+ * Chris Smith
+ * Relaxed
+ * Assignment 9
+ * A state in which the suspect behaves calmly.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
